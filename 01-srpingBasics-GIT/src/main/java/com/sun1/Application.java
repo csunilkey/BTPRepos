@@ -3,6 +3,8 @@ package com.sun1;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+// Test GIT - 001
+
 @SpringBootApplication
 public class Application {
 
